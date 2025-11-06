@@ -1,1 +1,1 @@
-echo "scripts8888"
+echo "hi"
